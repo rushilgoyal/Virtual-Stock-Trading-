@@ -1,4 +1,4 @@
-// Name: Rushil Bhandare
+// Name: Rushil Goyal
 // Final project: Bank and stock account program
 // Date of Submission: 12-23-2016
 
